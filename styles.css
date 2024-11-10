@@ -1,0 +1,46 @@
+body {
+    color: rgb(221, 22, 22);
+    background: rgb(0, 0, 0);
+    margin: 0px;
+}
+
+header{
+    border: solid 2px;
+    padding: 8px;
+}
+
+.chamada{
+    background: rgb(145,127,93);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.chamada-texto{
+    margin-right: 18%;
+}
+
+h1{
+    font-size: 40px;
+}
+
+p{
+    font-size: 20px;
+}
+
+img{
+    height: 200px;
+}
+
+.categoria-videos{
+    display: flex;
+    overflow-x: auto;
+    gap: 15px;
+}
+
+section{
+    padding-left: 20px;
+    padding-right: 2opx;
+}
